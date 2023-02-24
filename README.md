@@ -1,0 +1,1 @@
+Projeto criado a partir do desafio encontrado no Frontend Mentor (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
